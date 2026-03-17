@@ -12,12 +12,12 @@
 script = ExtResource("1_7qrku")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=336725777]
-position = Vector2(27, 22)
+position = Vector2(-0.07424164, 0.0144023895)
 shape = SubResource("RectangleShape2D_kc2or")
 
 [node name="MeshInstance2D" type="MeshInstance2D" parent="." unique_id=2091480459]
-position = Vector2(28, 22)
-scale = Vector2(-19.851515, 20.028805)
+position = Vector2(0.41259772, -0.2421748)
+scale = Vector2(-20.877836, 20.541956)
 mesh = SubResource("BoxMesh_rtp1y")
 texture = SubResource("ImageTexture_qc060")
 
