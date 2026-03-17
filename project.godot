@@ -11,7 +11,6 @@ config_version=5
 [application]
 
 config/name="bird"
-run/main_scene="uid://vwq2cx30vc55"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
@@ -46,3 +45,4 @@ right={
 [rendering]
 
 rendering_device/driver.windows="d3d12"
+renderer/rendering_method="mobile"
