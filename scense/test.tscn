@@ -8,6 +8,7 @@ size = Vector2(544, 20)
 [sub_resource type="BoxMesh" id="BoxMesh_q0s8q"]
 
 [node name="test" type="Node2D" unique_id=1499064909]
+position = Vector2(-1, 0)
 
 [node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=1425855254]
 
